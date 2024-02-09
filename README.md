@@ -1,1 +1,2 @@
-# git_1
+this is sanketh kumar singari 
+lerning javaScript
